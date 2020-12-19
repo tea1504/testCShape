@@ -1,0 +1,1 @@
+C:\Users\DELL\Documents\GitHub\testCSharp\testProject\testProject\bin\Debug\testProject.exe.config
